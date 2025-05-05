@@ -1,4 +1,6 @@
 .cabecalho{
     display: flex;
     justify-content: center;
+    color: rgb(146, 34, 34);
+    background-image: url("/images/png_cabecalho");
 }
