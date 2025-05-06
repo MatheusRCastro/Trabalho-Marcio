@@ -2,15 +2,6 @@
     display: flex;
     justify-content: center;
     color: rgb(0, 0, 0);
-    background-image: url("/./images/cabecalhoBackground.png");
-    width: 100%;
-    height: 800px;
-    background-size: cover;
-    /* Faz a imagem cobrir toda a div */
-    background-position: center;
-    /* Centraliza a imagem */
-    background-repeat: no-repeat;
-    /* Evita que a imagem se repita */
 }
 
 .corpoTexto {
