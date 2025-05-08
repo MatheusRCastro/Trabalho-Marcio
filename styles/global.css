@@ -23,3 +23,8 @@ li {
 a {
     color: brown;
 }
+
+h3{
+    align-items: center;
+    justify-content: center;
+}
