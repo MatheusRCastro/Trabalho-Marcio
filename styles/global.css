@@ -35,3 +35,7 @@ br{
     display: block;
     content: "";
 }
+
+a:hover{
+    color: rgb(201, 120, 0);
+}
