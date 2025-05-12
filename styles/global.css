@@ -27,5 +27,11 @@ a {
 h3{
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
 
+br{
+    margin-bottom: 16px;
+    display: block;
+    content: "";
+}
