@@ -1,41 +1,67 @@
 .cabecalho {
-    display: flex;
-    justify-content: center;
-    color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+  color: rgb(0, 0, 0);
 }
 
 .corpoTexto {
-    font-size: 21px;
+  font-size: 21px;
 }
 
 .subText {
-    font-size: 18px;
+  font-size: 18px;
 }
 
 span {
-    margin-left: 15px;
+  margin-left: 15px;
 }
 
 li {
-    margin-top: 10px;
+  margin-top: 10px;
 }
 
 a {
-    color: brown;
+  color: brown;
 }
 
-h3{
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+h3 {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
-br{
-    margin-bottom: 16px;
-    display: block;
-    content: "";
+br {
+  margin-bottom: 16px;
+  display: block;
+  content: "";
 }
 
-a:hover{
-    color: rgb(201, 120, 0);
+a:hover {
+  color: rgb(201, 120, 0);
+}
+
+footer {
+  min-height: 100px;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  color: #fff;
+  padding-top: 40px;
+  background-color: rgba(206, 204, 179, 0.89);
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
