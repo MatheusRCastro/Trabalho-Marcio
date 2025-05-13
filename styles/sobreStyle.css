@@ -14,3 +14,7 @@ img{
 #tituloP{
     margin-top: 55px;
 }
+
+footer{
+    position: fixed;
+}
