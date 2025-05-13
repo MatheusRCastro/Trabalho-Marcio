@@ -1,0 +1,16 @@
+.imagem{
+    display: flex;
+    gap:30px;
+}
+img{
+    width: 345px;
+    height: 300px;
+    
+}
+.foto{
+    padding-left:3
+}
+
+#tituloP{
+    margin-top: 50px;
+}
